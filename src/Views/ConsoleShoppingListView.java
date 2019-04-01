@@ -114,9 +114,9 @@ public class ConsoleShoppingListView implements ShoppingListView {
 
     private void displayMainMenu() {
         System.out.println("Choose 1 to add a new shopping list");
-        System.out.println("Choose 2 to modify list's name and description");
+        System.out.println("Choose 2 to modify lists name and description");
         System.out.println("Choose 3 to remove shopping list");
-        System.out.println("Choose 4 to display shopping list's contents");
+        System.out.println("Choose 4 to display shopping lists contents");
         System.out.println("Choose any other key to exit");
     }
 
